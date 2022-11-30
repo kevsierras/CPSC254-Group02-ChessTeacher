@@ -1,0 +1,2 @@
+include chs/engine/stockfish_*
+include chs/VERSION
